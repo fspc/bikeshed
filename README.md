@@ -23,7 +23,7 @@ docker run -d -p 3000:3000 --name="bikeshed" bikebike/bikeshed
 
 ##Password
 
-Login for test users is on the top website page.
+Login for test users is on the main website page near the bottom.
 
 ##Special Instructions
 
