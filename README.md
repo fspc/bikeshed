@@ -25,6 +25,10 @@ docker run -d -p 3000:3000 --name="bikeshed" bikebike/bikeshed
 
 Login for test users is on the top website page.
 
+##Special Instructions
+
+Add at least 1 bike to use Desktop View.
+
 ##How to test/develop inside the running container process 
 
 This method uses [nsenter](http://jpetazzo.github.io/2014/06/23/docker-ssh-considered-evil/).  Check out [jpetazzo/nsenter](https://github.com/jpetazzo/nsenter) on GitHub. 
